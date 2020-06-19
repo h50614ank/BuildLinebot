@@ -1,0 +1,15 @@
+D:\pusttest\test1\obj\Debug\netcoreapp3.1\test1.csprojAssemblyReference.cache
+D:\pusttest\test1\obj\Debug\netcoreapp3.1\test1.AssemblyInfoInputs.cache
+D:\pusttest\test1\obj\Debug\netcoreapp3.1\test1.AssemblyInfo.cs
+D:\pusttest\test1\obj\Debug\netcoreapp3.1\test1.csproj.CoreCompileInputs.cache
+D:\pusttest\test1\bin\Debug\netcoreapp3.1\test1.exe
+D:\pusttest\test1\bin\Debug\netcoreapp3.1\test1.deps.json
+D:\pusttest\test1\bin\Debug\netcoreapp3.1\test1.runtimeconfig.json
+D:\pusttest\test1\bin\Debug\netcoreapp3.1\test1.runtimeconfig.dev.json
+D:\pusttest\test1\bin\Debug\netcoreapp3.1\test1.dll
+D:\pusttest\test1\bin\Debug\netcoreapp3.1\test1.pdb
+D:\pusttest\test1\obj\Debug\netcoreapp3.1\test1.dll
+D:\pusttest\test1\obj\Debug\netcoreapp3.1\test1.pdb
+D:\pusttest\test1\obj\Debug\netcoreapp3.1\test1.genruntimeconfig.cache
+D:\pusttest\test1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\pusttest\test1\obj\Debug\netcoreapp3.1\test1.csproj.CopyComplete

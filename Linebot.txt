@@ -1,0 +1,9 @@
+ Your user ID 
+U4c19f45817714d759f077ff9368f2a63
+
+Bot basic ID
+@056wmfhl
+
+Channel access token
+Channel access token (long-lived) 
+u0XYR8+uaGyXkdw39oaoFw5cU93SvzdTZqWVQNO5UFsc1A3MJJHayHFxI1skGv4J5YPrlO+sgfn9nWUofSVYXf8tUtzucGpxAWDomJFWpQJ+Fo0lwOFk+bTF6Xzz8nY7BNZuJlQdXQbphnXPds8E/gdB04t89/1O/w1cDnyilFU=
